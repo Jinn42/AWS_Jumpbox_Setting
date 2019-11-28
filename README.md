@@ -32,12 +32,30 @@ Public Route Table associated to the public subnet:
 
 Private Route Table associated to the private subnet:
 ![](https://github.com/Jinn42/Jumpbox/blob/master/Routetable_privatesub.png)
+
 ## 5: Security Group
 Create 3 Security Groups and associate each one to its corresponding instance:
 
 Jumpbox Security Group:
+
+Inbound
+![](https://github.com/Jinn42/Jumpbox/blob/master/JB_in.png)
+Outbound
+![](https://github.com/Jinn42/Jumpbox/blob/master/JB_out.png)
+
 NAT instance Security Group:
+
+Inbound
+![](https://github.com/Jinn42/Jumpbox/blob/master/NAT_in.png)
+Outbound
+![](https://github.com/Jinn42/Jumpbox/blob/master/NAT_out.png)
+
 Final Instance Security Group:
+
+Inbound
+![](https://github.com/Jinn42/Jumpbox/blob/master/FI_in.png)
+Outbound
+![](https://github.com/Jinn42/Jumpbox/blob/master/FI_out.png)
 
 ## 6: Test connection by SSH on terminal 
 
