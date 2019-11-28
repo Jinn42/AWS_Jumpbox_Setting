@@ -28,9 +28,10 @@ relate 2 Elastic IPs and assign each of them to the 2 instances in the public su
 ## 4: Routetable
 Create 2 Route Tables:
 Public Route Table associated to the public subnet:
+![](https://github.com/Jinn42/Jumpbox/blob/master/Architecture_diagram.png)
 
 Private Route Table associated to the private subnet:
-
+![](https://github.com/Jinn42/Jumpbox/blob/master/Architecture_diagram.png)
 ## 5: Security Group
 
 ## 6: Test connection by SSH on terminal 
