@@ -2,6 +2,7 @@
 ## Objective:
 Set up a Jumpbox (EC2 instance) into public subnet to access a private EC2 instance located in a private subnet which has no direct access to Internet.
 ## Architecture
+![](https://github.com/Jinn42/Jumpbox/blob/master/Architecture_diagram.png)
 
 ## 1:Set the whole structure
 Step 1: Create a new VPC 
