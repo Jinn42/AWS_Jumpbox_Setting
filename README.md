@@ -58,7 +58,7 @@ Outbound
 ![](https://github.com/Jinn42/Jumpbox/blob/master/FI_out.png)
 
 ## 6: Test connection by SSH on terminal 
-![](https://github.com/Jinn42/Jumpbox/blob/master/Connect_test.png)
+![](https://github.com/Jinn42/Jumpbox/blob/master/connect_test.png)
 
 
 
